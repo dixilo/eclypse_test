@@ -1,0 +1,5 @@
+eclypse_test/
+.Xil/
+*.jou
+*.log
+*.str
